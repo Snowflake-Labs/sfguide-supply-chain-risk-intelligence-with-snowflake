@@ -1,1 +1,0 @@
-/Users/dshemsi/Desktop/sfguide-gnn-supply-chain-risk/streamlit/pages/8_About.py
